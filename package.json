@@ -1,0 +1,30 @@
+{
+  "name": "panchkaram",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/use-infinite-scroll": "^2.1.2",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "js-cookie": "^3.0.5",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18",
+    "react-modal": "^3.16.1",
+    "react-select": "^5.8.0",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.72.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
